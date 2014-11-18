@@ -44,7 +44,7 @@ import com.portfolio.data.utils.javaUtils;
 import com.portfolio.rest.RestWebApplicationException;
 
 
-@Path("/api")
+@Path("api")
 public class AdminServicePortfolio {
 	@Context ServletConfig sc;
 	@Context
